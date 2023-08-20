@@ -1,0 +1,19 @@
+.Input-Item{
+    background: white;
+    height: 40px;
+    border-radius: 5px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+   
+}
+.Input-Item label{
+    color: #832424;
+    font-size: 16px;
+    margin: 0px 5px;
+    font-size: 17px;
+}
+ .Input-Item input[type="checkbox"]{
+    width: 30px;
+    height: 19px;
+}
